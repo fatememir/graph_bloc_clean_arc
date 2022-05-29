@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>EC591604-11A4-49A8-A865-B926475487EB</title>
+    <defs>
+        <linearGradient x1="0%" y1="72.6915257%" x2="98.6317028%" y2="27.9294493%" id="linearGradient-1">
+            <stop stop-color="#2FA4ED" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#2FA4ED" stop-opacity="0.333082079" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="onboarding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="login-05" transform="translate(-268.000000, -80.000000)">
+            <g id="mail-email-letter.2" transform="translate(268.000000, 80.000000)">
+                <polygon id="Path" points="0 0 72 0 72 72 0 72"></polygon>
+                <g id="Group" transform="translate(9.000000, 6.000000)" stroke="#2FA4ED" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+                    <path d="M-0.003,21 L-0.003,48 C-0.003,52.971 4.026,57 8.997,57 L44.997,57 C49.968,57 53.997,52.971 53.997,48 L53.997,21" id="Path"></path>
+                    <path d="M4.194,14.295 L21.777,1.686 C24.912,-0.564 29.133,-0.561 32.268,1.689 L49.776,14.262 C55.383,18.288 55.38,24.873 49.77,28.893 L32.22,41.478 C29.085,43.728 24.864,43.725 21.729,41.475 L4.188,28.878 C-1.398,24.864 -1.395,18.303 4.194,14.295 Z" id="Path"></path>
+                    <g id="XMLID_28_" transform="translate(9.000000, 21.000000)" fill="url(#linearGradient-1)">
+                        <path d="M23.2636651,20.4467092 L36.006,11.2425 L36.006,11.2425 L36.006,6 C36.006,2.685 33.321,0 30.006,0 L6.006,0 C2.691,0 0.006,2.685 0.006,6 L1.42108547e-13,11.2425 L12.7187234,20.4430592 C15.8648715,22.7189419 20.1159422,22.7204133 23.2636651,20.4467092 Z" id="XMLID_29_"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

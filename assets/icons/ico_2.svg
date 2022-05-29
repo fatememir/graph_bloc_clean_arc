@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>DF17B153-49B5-4F64-8D42-8E9491005598</title>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-781.000000, -1277.000000)">
+            <g id="Section_2" transform="translate(203.000000, 875.000000)">
+                <g id="Train" transform="translate(24.000000, 285.000000)">
+                    <g id="2" transform="translate(391.000000, 117.000000)">
+                        <g id="ico_2" transform="translate(163.000000, 0.000000)">
+                            <line x1="18" y1="24.723" x2="15.75" y2="24.72525" id="Path" stroke="#2FA4ED" stroke-width="3.375" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <line x1="34.875" y1="16.85025" x2="33.28425" y2="18.441" id="Path" stroke="#2FA4ED" stroke-width="3.375" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <line x1="27" y1="13.47525" x2="27" y2="15.72525" id="Path" stroke="#2FA4ED" stroke-width="3.375" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <line x1="19.125" y1="16.85025" x2="20.71575" y2="18.441" id="Path" stroke="#2FA4ED" stroke-width="3.375" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <line x1="38.25" y1="24.72525" x2="36" y2="24.723" id="Path" stroke="#2FA4ED" stroke-width="3.375" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <path d="M28.94175,27.1845 C28.5380867,26.4949537 27.7990108,26.0712088 27,26.0712088 C26.2009892,26.0712088 25.4619133,26.4949537 25.05825,27.1845 L20.55825,34.8345 C20.0810132,35.6326371 20.143955,36.642132 20.7166376,37.3748069 C21.2893202,38.1074818 22.2537334,38.4123573 23.1435,38.142 L26.991,37.017 L30.8385,38.142 C31.7282665,38.4123573 32.6926798,38.1074818 33.2653624,37.3748069 C33.838045,36.642132 33.9009867,35.6326371 33.42375,34.8345 L28.94175,27.1845 Z" id="Path" stroke="#2FA4ED" stroke-width="3.375" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <circle id="Oval" stroke="#2FA4ED" stroke-width="3.375" stroke-linecap="round" stroke-linejoin="round" cx="27" cy="27" r="20.25"></circle>
+                            <rect id="Rectangle" x="0" y="0" width="54" height="54"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

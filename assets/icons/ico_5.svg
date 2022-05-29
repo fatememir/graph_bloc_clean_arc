@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>523E593C-238F-4FB4-ABBD-EE822454C8F9</title>
+    <g id="Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-781.000000, -1347.000000)">
+            <g id="Section_2" transform="translate(203.000000, 875.000000)">
+                <g id="Train" transform="translate(24.000000, 285.000000)">
+                    <g id="5" transform="translate(362.000000, 187.000000)">
+                        <g id="ico_5" transform="translate(192.000000, 0.000000)">
+                            <polygon id="Path" points="0 0 54 0 54 54 0 54"></polygon>
+                            <path d="M27,12.84975 C28.55025,11.03625 31.23225,9 35.316,9 C42.4575,9 47.25,15.705 47.25,21.94875 C47.25,35.001 31.0005,45 27,45 C22.9995,45 6.75,35.001 6.75,21.94875 C6.75,15.705 11.5425,9 18.684,9 C22.76775,9 25.44975,11.03625 27,12.84975 Z" id="Path" stroke="#2FA4ED" stroke-width="3.375" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <polyline id="Path" stroke="#2FA4ED" stroke-width="3.375" stroke-linecap="round" stroke-linejoin="round" points="33.50025 22.626 25.3755 30.75075 20.49975 25.875"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

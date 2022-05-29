@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2B7F2B70-1C76-4D3E-AC23-3426A4494AD4</title>
+    <g id="setting" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="setting-01" transform="translate(-320.000000, -40.000000)">
+            <g id="interface-essential-237" transform="translate(320.000000, 40.000000)">
+                <polygon id="Path" points="0 0 24 0 24 24 0 24"></polygon>
+                <line x1="4.48" y1="11.98" x2="19.47" y2="11.98" id="Path" stroke="#2C3544" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+                <polyline id="Path" stroke="#2C3544" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="13.483 5.988 19.52 12 13.483 18.012"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

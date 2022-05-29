@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ED0F96CD-9AC3-4CDC-B623-FB66256625D9</title>
+    <defs>
+        <linearGradient x1="0%" y1="91.3140741%" x2="98.6317028%" y2="9.81652459%" id="linearGradient-1">
+            <stop stop-color="#2FA4ED" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#2FA4ED" stop-opacity="0.333082079" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="onboarding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="login-02" transform="translate(-268.000000, -80.000000)">
+            <g id="mobile-chat-message" transform="translate(268.000000, 80.000000)">
+                <line x1="24" y1="54" x2="36" y2="54" id="Path" stroke="#2FA4ED" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+                <path d="M48,48 L48,57 C48,60.3137085 45.3137085,63 42,63 L18,63 C14.6862915,63 12,60.3137085 12,57 L12,15 C12,11.6862915 14.6862915,9 18,9 L21,9" id="Path" stroke="#2FA4ED" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M40.5,33 L40.5,37.497 C40.5,38.0759543 40.8331895,38.6032213 41.3560855,38.8517527 C41.8789815,39.1002841 42.4982245,39.0257049 42.94716,38.66013 L49.89789,33 L57,33 C60.3137085,33 63,30.3137085 63,27 L63,15 C63,11.6862915 60.3137085,9 57,9 L36,9 C32.6862915,9 30,11.6862915 30,15 L30,27 C30,30.3137085 32.6862915,33 36,33 L40.5,33 Z" id="Path" stroke="#2FA4ED" stroke-width="3" fill="url(#linearGradient-1)" stroke-linecap="round" stroke-linejoin="round"></path>
+                <rect id="Rectangle" x="0" y="0" width="72" height="72"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
